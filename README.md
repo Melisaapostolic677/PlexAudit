@@ -16,16 +16,15 @@ If you found this tool useful, please consider supporting my BandCamp projects:<
 ## Why use this?
 
 - **"Why is Plex showing the wrong title?"** — see exactly what Plex matched vs. what it guessed from the filename
-- **"I have 30,000 files — how do I know what Plex missed?"** — instantly see every file on disk that Plex has never touched, grouped by folder
+- **"I have 30,000 files — how do I know what Plex missed?"** — instantly see every file on disk that Plex has never touched, grouped and filtered to your specifications
 - **"I have duplicates but don't know which to delete"** — toggle duplicate view and quality columns to compare resolution/bitrate side by side
-- **"I fixed some matches in Plex — did it work?"** — re-run and check the Unmatched count
 
 ---
 
 ## Requirements
 
 - Python 3.8+ (no external dependencies)
-- Plex Media Server (Windows, macOS, or Linux)
+- Plex Media Server (Windows only, for now)
 
 ---
 
